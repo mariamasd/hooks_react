@@ -1,0 +1,88 @@
+
+.movie1
+{
+    display: grid;
+  grid-template-columns: 3fr 3fr 3fr;
+  gap: 10px 10em;
+padding: 2%;
+margin: 2%;
+}
+.film1{
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 5px;
+}
+.film2{
+    margin-left: 2%;
+    margin-right: 2%;
+}.film3{
+    margin-left: 2%;
+    margin-right: 2%;
+}.film4{
+    margin-left: 2%;
+    margin-right: 2%;
+}.film5{
+    margin-left: 2%;
+    margin-right: 2%;
+}.film6{
+    margin-left: 2%;
+    margin-right: 2%;
+}.film7{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+/*style de App.js*/
+header nav ul{
+    display: flex;
+    float: right;
+    margin-right: 5%
+    
+}
+ header nav ul li{
+
+   text-transform:uppercase;
+  list-style: none;
+   margin-left: 2%;
+   margin-right: 5%;
+   border-radius: 5px;
+   
+   font-size: 32px;
+   color: white;
+   
+}
+header
+{
+border: 1px solid white;
+}
+span
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: red;
+    font-style: oblique;
+   text-decoration: solid;
+ text-transform: uppercase;
+}
+
+/*style de add.js*/
+
+h2
+{
+    float: right;
+    color: red;
+text-overflow: ellipsis;
+}
+.netfix
+{
+    border: 1px solid white;
+    border-radius: 5px;
+    color: red;
+    text-align: center;
+}
+header nav ul li button{
+    font-size: 32px;
+    background-color: red;
+    border: none;
+    color: aliceblue;
+}
+
+
